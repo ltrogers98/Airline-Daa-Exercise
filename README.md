@@ -1,5 +1,5 @@
 # Airline Data Exercise
-This project takes data about an airline and analyzes according to most incidents and then graphs it
+This project takes data about an airline and analyzes according to most incidents and then graphs it. This was uses AWS. 
 ## Group Members
 Name | Role
 ------------- | ------------- 
